@@ -1,4 +1,4 @@
-# 📊 Análise de Vendas — Produtos Gamer
+# 📊 Análise de Vendas — Produtos Gamer por comprador
 
 Este projeto contém consultas SQL desenvolvidas a partir de uma base de dados fictícia de vendas de produtos do segmento gamer. O objetivo principal é extrair insights relevantes sobre o comportamento dos clientes e o desempenho das vendas.
 
